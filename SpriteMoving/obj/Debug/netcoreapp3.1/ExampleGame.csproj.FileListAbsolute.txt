@@ -1,0 +1,27 @@
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.exe
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.deps.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.runtimeconfig.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.runtimeconfig.dev.json
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\ExampleGame.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.csprojAssemblyReference.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.AssemblyInfoInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.AssemblyInfo.cs
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.csproj.CoreCompileInputs.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.csproj.CopyComplete
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.dll
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.pdb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\obj\Debug\netcoreapp3.1\ExampleGame.genruntimeconfig.cache
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\Content\Cream and Black Natural Makeup Beauty Logo.xnb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\Content\ball.xnb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\d19b1750\Documents\Raicelys Suero\CST - 4TO\Programación I\ExampleGame\bin\Debug\netcoreapp3.1\Content\stars.xnb
