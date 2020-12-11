@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/d19b1750/Documents/Raicelys Suero/CST - 4TO/Programación I/SpriteBatches/SpriteBatches/Content/earth.png</File>
+    <File>C:/Users/d19b1750/Documents/Raicelys Suero/CST - 4TO/Programación I/SpriteBatches/SpriteBatches/Content/shuttle.png</File>
+    <File>C:/Users/d19b1750/Documents/Raicelys Suero/CST - 4TO/Programación I/SpriteBatches/SpriteBatches/Content/stars.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
